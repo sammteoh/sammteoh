@@ -4,7 +4,7 @@ I'm Samuel, an Applied Mathematics student at UC San Diego.
 
 - 🔭 **Currently working on:** A C++ / Node.js task management tool
 - 🌱 **Currently learning:** Advanced C++, multithreading, and systems design
-- 📫 **How to reach me:** [samuelhoiteoh@gmail.com](mailto:samuelhoiteoh@gmail.com) | [LinkedIn]([https://www.linkedin.com/in/samuel-teoh-b50a11298])
+- 📫 **How to reach me:** [samuelhoiteoh@gmail.com](mailto:samuelhoiteoh@gmail.com) | [LinkedIn](https://www.linkedin.com/in/samuel-teoh-b50a11298)
 
 ### 🛠️ Tech Stack / Tools
 
